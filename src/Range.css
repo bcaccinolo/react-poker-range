@@ -1,0 +1,8 @@
+table.range {
+  border: 1px solid black;
+  width: 400px;
+}
+
+table.range td {
+  border: 1px solid rgba(0, 0, 0, 0.44);
+}
